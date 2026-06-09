@@ -1,7 +1,7 @@
 # MusicSheetConvert
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.13+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![DOI](https://img.shields.io/badge/DOI-zenodo.20604622-blue.svg)](https://doi.org/10.5281/zenodo.20604622)
 
 > A Python toolkit for converting between **staff notation**, **numbered notation
